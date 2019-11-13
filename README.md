@@ -1,2 +1,0 @@
-# SkillTree
-React Native Project
